@@ -4,6 +4,6 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Engineer+%E2%9A%A1;Problem+Solver+%26+DSA+Enthusiast+%F0%9F%A7%A0;AI+%26+LLM+Explorer+%F0%9F%A4%96"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Engineer;Problem+Solver+%26+DSA+Enthusiast;AI+%26+LLM+Explorer"/>
 
 </div>
