@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400" alt="Blue Matrix" />
+  <img src="https://media.giphy.com/media/ZVik7pIo9KB3UA2787/giphy.gif" width="400" alt="Code Screen" />
 </p>
