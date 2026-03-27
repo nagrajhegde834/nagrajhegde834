@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIo9KB3UA2787/giphy.gif" width="400" alt="Code Screen" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
 </p>
