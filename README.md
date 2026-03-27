@@ -13,3 +13,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+🚀 Passionate Java Backend Developer focused on building scalable, high-performance REST APIs and AI-powered backend systems.
+
+✔️ Strong foundation in Java, OOP & Data Structures and Algorithms
+✔️ Experienced in Spring Boot, Spring Security & JWT Authentication
+✔️ Building intelligent apps with Spring AI, LLM APIs & RAG Systems
+✔️ Continuously learning to stay ahead in backend & AI engineering
+
+🎯 Goal: Grow from a Java Backend Developer into an elite Agentic AI Engineer and build impactful, intelligent systems.
