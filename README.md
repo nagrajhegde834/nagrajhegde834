@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Engineer+%E2%9A%A1;Problem+Solver+%26+DSA+Enthusiast+%F0%9F%A7%A0;AI+%26+LLM+Explorer+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Engineer+%E2%9A%A1;Problem+Solver+%26+DSA+Enthusiast+%F0%9F%A7%A0;AI+%26+LLM+Explorer+%F0%9F%A4%96"/>
 
 </div>
 
