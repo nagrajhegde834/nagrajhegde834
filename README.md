@@ -69,21 +69,34 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-resume-analyzer&theme=dark&bg_color=0d1117&title_color=ff4d6d&text_color=c9d1d9&icon_color=f1c40f&hide_border=true&card_width=500" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-chatbot&theme=dark&bg_color=0d1117&title_color=ff4d6d&text_color=c9d1d9&icon_color=f1c40f&hide_border=true&card_width=500" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-code-review-assistant&theme=dark&bg_color=0d1117&title_color=ff4d6d&text_color=c9d1d9&icon_color=f1c40f&hide_border=true&card_width=500" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-voice-assistant&theme=dark&bg_color=0d1117&title_color=ff4d6d&text_color=c9d1d9&icon_color=f1c40f&hide_border=true&card_width=500" />
-</p>
+<a href="https://github.com/nagrajhegde834/ai-resume-analyzer">
+  <img src="https://img.shields.io/badge/AI%20Resume%20Analyzer-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=autonomous-ai-agent&theme=dark&bg_color=0d1117&title_color=ff4d6d&text_color=c9d1d9&icon_color=f1c40f&hide_border=true&card_width=500" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ecommerce-application&theme=dark&bg_color=0d1117&title_color=ff4d6d&text_color=c9d1d9&icon_color=f1c40f&hide_border=true&card_width=500" />
+<a href="https://github.com/nagrajhegde834/ai-chatbot">
+  <img src="https://img.shields.io/badge/AI%20Chatbot-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+</a>
+
+<a href="https://github.com/nagrajhegde834/ai-code-review-assistant">
+  <img src="https://img.shields.io/badge/AI%20Code%20Review-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+</a>
+
+<a href="https://github.com/nagrajhegde834/ai-voice-assistant">
+  <img src="https://img.shields.io/badge/AI%20Voice%20Assistant-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+</a>
+
+<a href="https://github.com/nagrajhegde834/autonomous-ai-agent">
+  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agent-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+</a>
+
+<a href="https://github.com/nagrajhegde834/ecommerce-application">
+  <img src="https://img.shields.io/badge/E--Commerce%20App-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+</a>
+
 </p>
 
 ---
