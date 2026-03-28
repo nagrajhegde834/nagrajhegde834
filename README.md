@@ -106,25 +106,13 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nagrajhegde834&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nagrajhegde834&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagrajhegde834&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagrajhegde834&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nagrajhegde834&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nagrajhegde834&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nagrajhegde834&show_icons=true&theme=tokyonight&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nagrajhegde834&layout=compact&theme=tokyonight&hide_border=true&title_color=F85D7F&bg_color=1F222E" alt="Top Languages"/>
+</p>
 
 ---
 
