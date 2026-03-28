@@ -33,19 +33,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://cdn.simpleicons.org/linkedin/ff69b4" height="45"/>
+    <img src="https://cdn.simpleicons.org/linkedin/ff1493" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ff69b4" height="45"/>
+    <img src="https://cdn.simpleicons.org/gmail/ff1493" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/NagarajHeg54130">
-    <img src="https://cdn.simpleicons.org/x/ff69b4" height="45"/>
+    <img src="https://cdn.simpleicons.org/x/ff1493" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://cdn.simpleicons.org/instagram/ff69b4" height="45"/>
+    <img src="https://cdn.simpleicons.org/instagram/ff1493" height="45"/>
   </a>
 </p>
 
