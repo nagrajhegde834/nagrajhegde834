@@ -23,7 +23,6 @@
 ✔️ Strong foundation in Java, OOP & Data Structures and Algorithms <br>
 ✔️ Experienced in Spring Boot, Spring Security & JWT Authentication <br>
 ✔️ Building intelligent apps with Spring AI, LLM APIs & RAG Systems <br>
-✔️ Oracle Certified AI Foundations Associate <br>
 ✔️ Continuously learning to stay ahead in backend & AI engineering <br>
 
 🎯 Goal: Grow from a Java Backend Developer into an elite Agentic AI Engineer and build impactful, intelligent systems.
