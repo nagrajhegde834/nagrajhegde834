@@ -75,33 +75,19 @@
 ## 🚀 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/nagrajhegde834/ai-resume-analyzer">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-resume-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Resume Analyzer"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/ai-chatbot">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Chatbot"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/ai-code-review-assistant">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-code-review-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Code Review Assistant"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/ai-voice-assistant">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-voice-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Voice Assistant"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/autonomous-ai-agent">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=autonomous-ai-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Autonomous AI Agent System"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/ecommerce-application">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ecommerce-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce Application"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/portfolio-website">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=portfolio-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio Website"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/pdf-chatbot-rag">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=pdf-chatbot-rag&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PDF Chatbot RAG"/>
-  </a>
-  <a href="https://github.com/nagrajhegde834/movie-recommendation-system">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=movie-recommendation-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Movie Recommendation System"/>
-  </a>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🤖 AI Resume Analyzer](https://github.com/nagrajhegde834/ai-resume-analyzer) | AI-powered resume analyzer using LLM APIs | Java, Spring Boot, LLM |
+| [💬 AI Chatbot](https://github.com/nagrajhegde834/ai-chatbot) | Intelligent chatbot built with Spring AI | Java, Spring AI, LLM |
+| [🔍 AI Code Review Assistant](https://github.com/nagrajhegde834/ai-code-review-assistant) | AI tool to review & debug code using LLM APIs | Java, Spring Boot, LLM |
+| [🎙️ AI Voice Assistant](https://github.com/nagrajhegde834/ai-voice-assistant) | Voice assistant powered by LLM & Spring AI | Java, Spring AI |
+| [🦾 Autonomous AI Agent](https://github.com/nagrajhegde834/autonomous-ai-agent) | Autonomous AI agent with multi-step reasoning | Java, Spring AI, LLM |
+| [🛒 E-Commerce Application](https://github.com/nagrajhegde834/ecommerce-application) | Full-stack e-commerce app with JWT Auth | Java, Spring Boot, MySQL |
+| [🌐 Portfolio Website](https://github.com/nagrajhegde834/portfolio-website) | Personal portfolio with modern UI | HTML, CSS, JavaScript |
+| [📄 PDF Chatbot RAG](https://github.com/nagrajhegde834/pdf-chatbot-rag) | RAG-based PDF chatbot using Vector DB | Java, Spring Boot, RAG |
+| [🎬 Movie Recommendation System](https://github.com/nagrajhegde834/movie-recommendation-system) | AI-powered movie recommendation engine | Java, Spring AI, LLM |
+
 </p>
 
 ---
