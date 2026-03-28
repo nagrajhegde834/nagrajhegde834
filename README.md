@@ -106,6 +106,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=nagrajhegde834&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="GitHub Stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrajhegde834&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
 
 
 
