@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=200&section=header&text=Nagaraj%20Hegde&fontSize=50&fontColor=ff69b4&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=60&descAlign=50&descSize=20" />
+<h1 align="center" style="color:#ff1493;">Nagaraj Hegde</h1>
+
+<p align="center" style="color:#ff69b4; font-size:18px;">
+  Java Developer | Spring Boot Developer
 </p>
 
 ---
