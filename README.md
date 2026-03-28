@@ -106,12 +106,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
+### 🔥 Streak Stats
 <p align="center">
-  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nagrajhegde834&show_icons=true&theme=tokyonight&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagrajhegde834&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Streak Stats"/>
+</p>
+
+### 💻 GitHub Profile Stats
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=nagrajhegde834&show_icons=true&theme=tokyonight&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nagrajhegde834&layout=compact&theme=tokyonight&hide_border=true&title_color=F85D7F&bg_color=1F222E" alt="Top Languages"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrajhegde834&layout=compact&theme=tokyonight&hide_border=true&title_color=F85D7F&bg_color=1F222E" alt="Most Used Languages"/>
 </p>
 
 ---
