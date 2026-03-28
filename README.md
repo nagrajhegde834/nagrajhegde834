@@ -1,11 +1,9 @@
-<h1 align="center">
-  <span style="color:#ff1493;">Nagaraj Hegde</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=ffffff&text=Nagaraj%20Hegde&fontColor=ff1493&fontSize=40&strokeWidth=0"/>
+</p>
 
 <p align="center">
-  <span style="color:#ff69b4; font-size:18px;">
-    Java Developer | Spring Boot Developer
-  </span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=ffffff&text=Java%20Developer%20%7C%20Spring%20Boot%20Developer&fontColor=ff69b4&fontSize=18&strokeWidth=0"/>
 </p>
 
 ---
