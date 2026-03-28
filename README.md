@@ -32,20 +32,20 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-FF6B9D?style=flat-square&logo=linkedin&logoColor=FF6B9D&labelColor=FF6B9D&color=00000000"/>
+  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
+    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:nagarajhegde174@gmail.com" target="_blank">
-    <img width="32px" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-FF6B9D?style=flat-square&logo=gmail&logoColor=FF6B9D&labelColor=FF6B9D&color=00000000"/>
+  &nbsp;&nbsp;
+  <a href="mailto:nagarajhegde174@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/NagarajHeg54130" target="_blank">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-FF6B9D?style=flat-square&logo=x&logoColor=FF6B9D&labelColor=FF6B9D&color=00000000"/>
+  &nbsp;&nbsp;
+  <a href="https://x.com/NagarajHeg54130">
+    <img src="https://img.shields.io/badge/Twitter-FF6B9D?style=for-the-badge&logo=x&logoColor=white" height="28"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/nagraj_hegde_07" target="_blank">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-FF6B9D?style=flat-square&logo=instagram&logoColor=FF6B9D&labelColor=FF6B9D&color=00000000"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nagraj_hegde_07">
+    <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
   </a>
 </p>
 
