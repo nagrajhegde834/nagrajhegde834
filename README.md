@@ -140,6 +140,13 @@
 
 ---
 
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/output/github-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
 
 
 
