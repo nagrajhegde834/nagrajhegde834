@@ -76,31 +76,31 @@
 
 <p align="left">
   <a href="https://github.com/nagrajhegde834/ai-resume-analyzer">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-resume-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Resume Analyzer"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-resume-analyzer&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="AI Resume Analyzer"/>
   </a>
   <a href="https://github.com/nagrajhegde834/ai-chatbot">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Chatbot"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-chatbot&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="AI Chatbot"/>
   </a>
   <a href="https://github.com/nagrajhegde834/ai-code-review-assistant">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-code-review-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Code Review Assistant"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-code-review-assistant&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="AI Code Review Assistant"/>
   </a>
   <a href="https://github.com/nagrajhegde834/ai-voice-assistant">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-voice-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Voice Assistant"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-voice-assistant&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="AI Voice Assistant"/>
   </a>
   <a href="https://github.com/nagrajhegde834/autonomous-ai-agent">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=autonomous-ai-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Autonomous AI Agent System"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=autonomous-ai-agent&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Autonomous AI Agent System"/>
   </a>
   <a href="https://github.com/nagrajhegde834/ecommerce-application">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ecommerce-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce Application"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ecommerce-application&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="E-Commerce Application"/>
   </a>
   <a href="https://github.com/nagrajhegde834/portfolio-website">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=portfolio-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio Website"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=portfolio-website&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Portfolio Website"/>
   </a>
   <a href="https://github.com/nagrajhegde834/pdf-chatbot-rag">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=pdf-chatbot-rag&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PDF Chatbot RAG"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=pdf-chatbot-rag&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="PDF Chatbot RAG"/>
   </a>
   <a href="https://github.com/nagrajhegde834/movie-recommendation-system">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=movie-recommendation-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Movie Recommendation System"/>
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=movie-recommendation-system&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Movie Recommendation System"/>
   </a>
 </p>
 
