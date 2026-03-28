@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/NagarajHeg54130">
-    <img src="https://img.shields.io/badge/Twitter-FF6B9D?style=for-the-badge&logo=x&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
