@@ -33,16 +33,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nagarajhegde174@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/6Vy1OgR.png"/>
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/NagarajHeg54130" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF6B9D?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/nagraj_hegde_07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OViZO8J.png"/>
   </a>
 </p>
 
