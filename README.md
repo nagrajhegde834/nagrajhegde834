@@ -112,7 +112,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nagrajhegde834&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Streak Stats"/>
 </p>
+
 ---
+
 ### 💻 GitHub Profile Stats
 <p align="center">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nagrajhegde834&show_icons=true&theme=tokyonight&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
