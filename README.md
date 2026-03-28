@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&height=100&lines=Nagaraj+Hegde;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=200&section=header&text=Nagaraj%20Hegde&fontSize=50&fontColor=ff69b4&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=60&descAlign=50&descSize=20" />
 </p>
 
 ---
