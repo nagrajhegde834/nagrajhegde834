@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:8A2BE2&height=200&section=header&text=Nagaraj%20Hegde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20REST%20APIs&descAlignY=55&descSize=18" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&height=100&lines=Nagaraj+Hegde;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs" />
+</p>
 
 ---
 
