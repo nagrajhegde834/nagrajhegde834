@@ -51,6 +51,16 @@
 
 ---
 
+## 🧠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,docker,git,github,postman,vscode,idea,gradle,html,css,js&perline=8" />
+</p>
+
+---
+
+
+
 
 
 
