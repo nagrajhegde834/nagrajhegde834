@@ -4,19 +4,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-ff69b4?style=for-the-badge&logo=gmail"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/NagarajHeg54130">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
