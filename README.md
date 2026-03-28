@@ -72,7 +72,37 @@
 
 ---
 
+## 🚀 Featured Projects
 
+<p align="left">
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-resume-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Resume Analyzer"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Chatbot"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-code-review-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Code Review Assistant"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ai-voice-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Voice Assistant"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=autonomous-ai-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Autonomous AI Agent System"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=ecommerce-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce Application"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=portfolio-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio Website"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=pdf-chatbot-rag&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PDF Chatbot RAG"/>
+  </a>
+  <a href="#">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagrajhegde834&repo=movie-recommendation-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Movie Recommendation System"/>
+  </a>
+</p>
 
 ---
 
