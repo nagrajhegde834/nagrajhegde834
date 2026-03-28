@@ -1,25 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0ea5e9&height=200&section=header&text=Nagaraj%20Vishnu%20Hegde&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descAlignY=60&descAlign=50" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://img.icons8.com/ios-filled/50/ff1493/linkedin.png"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ff1493" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/NagarajHeg54130">
-    <img src="https://cdn.simpleicons.org/x/ff1493" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://cdn.simpleicons.org/instagram/ff1493" height="45"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
@@ -49,7 +30,23 @@
 
 ## 🔗 Connect With Me
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
+    <img src="https://img.icons8.com/ios-filled/50/ff1493/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nagarajhegde174@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/ff1493" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/NagarajHeg54130">
+    <img src="https://cdn.simpleicons.org/x/ff1493" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nagraj_hegde_07">
+    <img src="https://cdn.simpleicons.org/instagram/ff1493" height="45"/>
+  </a>
+</p>
 
 ---
 
