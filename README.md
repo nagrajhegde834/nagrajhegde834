@@ -33,16 +33,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-ff69b4?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/NagarajHeg54130">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="60"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
   </a>
 </p>
 
