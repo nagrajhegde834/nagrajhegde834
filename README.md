@@ -74,27 +74,43 @@
 <p align="center">
 
 <a href="https://github.com/nagrajhegde834/ai-resume-analyzer">
-  <img src="https://img.shields.io/badge/AI%20Resume%20Analyzer-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/AI%20Resume%20Analyzer-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+</a>
+<a href="https://github.com/nagrajhegde834/ai-chatbot">
+  <img src="https://img.shields.io/badge/AI%20Chatbot-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
 </a>
 
-<a href="https://github.com/nagrajhegde834/ai-chatbot">
-  <img src="https://img.shields.io/badge/AI%20Chatbot-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
-</a>
+<br><br>
 
 <a href="https://github.com/nagrajhegde834/ai-code-review-assistant">
-  <img src="https://img.shields.io/badge/AI%20Code%20Review-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/AI%20Code%20Review-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+</a>
+<a href="https://github.com/nagrajhegde834/ai-voice-assistant">
+  <img src="https://img.shields.io/badge/AI%20Voice%20Assistant-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
 </a>
 
-<a href="https://github.com/nagrajhegde834/ai-voice-assistant">
-  <img src="https://img.shields.io/badge/AI%20Voice%20Assistant-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
-</a>
+<br><br>
 
 <a href="https://github.com/nagrajhegde834/autonomous-ai-agent">
-  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agent-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agent-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+</a>
+<a href="https://github.com/nagrajhegde834/ecommerce-application">
+  <img src="https://img.shields.io/badge/E--Commerce%20App-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
 </a>
 
-<a href="https://github.com/nagrajhegde834/ecommerce-application">
-  <img src="https://img.shields.io/badge/E--Commerce%20App-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
+<br><br>
+
+<a href="https://github.com/nagrajhegde834/portfolio-website">
+  <img src="https://img.shields.io/badge/Portfolio%20Website-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+</a>
+<a href="https://github.com/nagrajhegde834/pdf-chatbot-rag">
+  <img src="https://img.shields.io/badge/PDF%20Chatbot%20RAG-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/nagrajhegde834/movie-recommendation-system">
+  <img src="https://img.shields.io/badge/Movie%20Recommendation-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
 </a>
 
 </p>
