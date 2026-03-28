@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://cdn.simpleicons.org/linkedin/ff1493" height="45"/>
+    <img src="https://img.icons8.com/ios-filled/50/ff1493/linkedin.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nagarajhegde174@gmail.com">
