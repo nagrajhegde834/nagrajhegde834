@@ -23,7 +23,8 @@
 ✔️ Strong foundation in Java, OOP & Data Structures and Algorithms <br>
 ✔️ Experienced in Spring Boot, Spring Security & JWT Authentication <br>
 ✔️ Building intelligent apps with Spring AI, LLM APIs & RAG Systems <br>
-✔️ Continuously learning to stay ahead in backend & AI engineering  <br>
+✔️ Oracle Certified AI Foundations Associate <br>
+✔️ Continuously learning to stay ahead in backend & AI engineering <br>
 
 🎯 Goal: Grow from a Java Backend Developer into an elite Agentic AI Engineer and build impactful, intelligent systems.
 
@@ -56,7 +57,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,docker,git,github,postman,vscode,idea,gradle,html,css,js&perline=8" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -151,7 +151,7 @@
 ## 🏅 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrajhegde834&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&layout=compact" alt="Top Languages"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=nagrajhegde834&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=1F222E&title_color=F85D7F" alt="Top Contributed Repos"/>
 </p>
 
 ---
@@ -165,10 +165,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0ea5e9&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="Footer"/>
 </p>
-
----
-
-
-
-
-
