@@ -71,49 +71,102 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-
+### 🔹 AI Resume Analyzer
 <a href="https://github.com/nagrajhegde834/ai-resume-analyzer">
-  <img src="https://img.shields.io/badge/AI%20Resume%20Analyzer-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/AI%20Resume%20Analyzer-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
+
+> AI-powered resume analyzer built with Spring Boot & LLM APIs  
+
+**Tech Stack:** Java • Spring Boot • LLM APIs  
+
+---
+
+### 🔹 AI Chatbot
 <a href="https://github.com/nagrajhegde834/ai-chatbot">
-  <img src="https://img.shields.io/badge/AI%20Chatbot-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/AI%20Chatbot-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
 
-<br><br>
+> Intelligent chatbot built with Spring AI & LLM APIs  
 
+**Tech Stack:** Java • Spring AI • LLM APIs  
+
+---
+
+### 🔹 AI Code Review Assistant
 <a href="https://github.com/nagrajhegde834/ai-code-review-assistant">
-  <img src="https://img.shields.io/badge/AI%20Code%20Review-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/AI%20Code%20Review-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
+
+> AI tool to review, explain & debug code using LLM APIs  
+
+**Tech Stack:** Java • Spring Boot • LLM APIs  
+
+---
+
+### 🔹 AI Voice Assistant
 <a href="https://github.com/nagrajhegde834/ai-voice-assistant">
-  <img src="https://img.shields.io/badge/AI%20Voice%20Assistant-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/AI%20Voice%20Assistant-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
 
-<br><br>
+> AI voice assistant powered by LLM & Spring AI  
 
+**Tech Stack:** Java • Spring AI • LLM APIs  
+
+---
+
+### 🔹 Autonomous AI Agent System
 <a href="https://github.com/nagrajhegde834/autonomous-ai-agent">
-  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agent-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agent-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
+
+> Autonomous AI agent system with multi-step reasoning  
+
+**Tech Stack:** Java • Spring AI • LLM APIs  
+
+---
+
+### 🔹 E-Commerce Application
 <a href="https://github.com/nagrajhegde834/ecommerce-application">
-  <img src="https://img.shields.io/badge/E--Commerce%20App-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/E--Commerce%20App-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
 
-<br><br>
+> Full-stack e-commerce app with Spring Boot & JWT Auth  
 
+**Tech Stack:** Java • Spring Boot • MySQL  
+
+---
+
+### 🔹 Portfolio Website
 <a href="https://github.com/nagrajhegde834/portfolio-website">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/Portfolio%20Website-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
+
+> Personal portfolio built with modern web technologies  
+
+**Tech Stack:** HTML • CSS • JavaScript  
+
+---
+
+### 🔹 PDF Chatbot RAG
 <a href="https://github.com/nagrajhegde834/pdf-chatbot-rag">
-  <img src="https://img.shields.io/badge/PDF%20Chatbot%20RAG-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/PDF%20Chatbot%20RAG-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
 
-<br><br>
+> RAG-based PDF chatbot using Vector DB & Spring Boot  
 
+**Tech Stack:** Java • Spring Boot • RAG • Vector DB  
+
+---
+
+### 🔹 Movie Recommendation System
 <a href="https://github.com/nagrajhegde834/movie-recommendation-system">
-  <img src="https://img.shields.io/badge/Movie%20Recommendation-ec4899?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/Movie%20Recommendation-%23111827?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=0d1117&color=0d1117" />
 </a>
 
-</p>
+> AI-powered movie recommendation engine using LLM APIs  
+
+**Tech Stack:** Java • Spring AI • LLM APIs  
 
 ---
 
