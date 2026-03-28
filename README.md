@@ -33,19 +33,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-FF6B9D?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nagarajhegde174@gmail.com" target="_blank">
-    <img width="32px" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-FF6B9D?style=flat-square&logo=gmail&logoColor=white"/>
+    <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/NagarajHeg54130" target="_blank">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-FF6B9D?style=flat-square&logo=x&logoColor=white"/>
+    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/nagraj_hegde_07" target="_blank">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-FF6B9D?style=flat-square&logo=instagram&logoColor=white"/>
+    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"/>
   </a>
 </p>
 
