@@ -29,4 +29,26 @@
 
 ---
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nagarajhegde174@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://x.com/NagarajHeg54130" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-FF6B9D?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/nagraj_hegde_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+
+
+
 
