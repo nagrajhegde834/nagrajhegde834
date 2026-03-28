@@ -151,7 +151,7 @@
 ## 🏅 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nagrajhegde834&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=1F222E&title_color=F85D7F" alt="Top Contributed Repos"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrajhegde834&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
