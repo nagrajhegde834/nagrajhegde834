@@ -57,7 +57,22 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,docker,git,github,postman,vscode,idea,gradle,html,css,js&perline=8" />
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=consul&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLM%20APIs-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
 ---
+
+
 
 
 
