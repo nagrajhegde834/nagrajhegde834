@@ -160,5 +160,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:b2f7ef,100:ffffff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=e11d48&animation=fadeIn&fontAlignY=65" alt="Footer"/>
-</p>>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:b2f7ef,100:ffffff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=0f172a&animation=fadeIn&fontAlignY=65" alt="Footer"/>
+</p>
