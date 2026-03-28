@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=35&center=true&vCenter=true&width=600&height=70&lines=Nagaraj+Hegde" />
-</p>
+<h1 align="center">
+  <span style="color:#ff1493;">Nagaraj Hegde</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=20&center=true&vCenter=true&width=600&height=40&lines=Java+Developer+%7C+Spring+Boot+Developer" />
+  <span style="color:#ff69b4; font-size:18px;">
+    Java Developer | Spring Boot Developer
+  </span>
 </p>
 
 ---
