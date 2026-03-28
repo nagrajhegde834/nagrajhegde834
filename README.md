@@ -148,6 +148,13 @@
 
 ---
 
+## 🏅 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nagrajhegde834&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=1F222E&title_color=F85D7F" alt="Top Contributed Repos"/>
+</p>
+
+---
 
 
 
