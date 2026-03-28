@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:ffffff,100:ffffff&text=Nagaraj%20Hegde&fontColor=ff1493&fontSize=42&strokeWidth=0"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:ffffff,100:ffffff&text=Java%20Developer%20%7C%20Spring%20Boot%20Developer&fontColor=ff69b4&fontSize=20&strokeWidth=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0ea5e9&height=200&section=header&text=Nagaraj%20Hegde&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
 ---
