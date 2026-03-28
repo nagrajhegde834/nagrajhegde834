@@ -2,6 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0ea5e9&height=200&section=header&text=Nagaraj%20Vishnu%20Hegde&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descAlignY=60&descAlign=50" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
+    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nagarajhegde174@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/NagarajHeg54130">
+    <img src="https://img.shields.io/badge/Twitter-FF6B9D?style=for-the-badge&logo=x&logoColor=white" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nagraj_hegde_07">
+    <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -26,28 +44,6 @@
 ✔️ Continuously learning to stay ahead in backend & AI engineering <br>
 
 🎯 Goal: Grow from a Java Backend Developer into an elite Agentic AI Engineer and build impactful, intelligent systems.
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/NagarajHeg54130">
-    <img src="https://img.shields.io/badge/Twitter-FF6B9D?style=for-the-badge&logo=x&logoColor=white" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
-  </a>
-</p>
 
 ---
 
