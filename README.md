@@ -33,19 +33,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nagarajhegde174@gmail.com" target="_blank">
-    <img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/6Vy1OgR.png"/>
+    <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/NagarajHeg54130" target="_blank">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/nagraj_hegde_07" target="_blank">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OViZO8J.png"/>
+    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"/>
   </a>
 </p>
 
