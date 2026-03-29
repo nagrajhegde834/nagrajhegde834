@@ -138,7 +138,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagrajhegde834&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nagrajhegde834&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&v=2" />
 </p>
 
 ---
