@@ -1,21 +1,20 @@
-name: Generate Space Invaders
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-game:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: "space-invaders.svg"
-          strategy: "random"
+          output-path: 'game.gif'
+          strategy: 'random'
