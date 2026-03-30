@@ -15,15 +15,18 @@
 ---
 
 ## 👨‍💻 About Me
-
-🚀 Passionate Java Backend Developer focused on building scalable, high-performance REST APIs and AI-powered backend systems.
-
-✔️ Strong foundation in Java, OOP & Data Structures and Algorithms <br>
-✔️ Experienced in Spring Boot, Spring Security & JWT Authentication <br>
-✔️ Building intelligent apps with Spring AI, LLM APIs & RAG Systems <br>
-✔️ Continuously learning to stay ahead in backend & AI engineering <br>
-
-🎯 Goal: Grow from a Java Backend Developer into an elite Agentic AI Engineer and build impactful, intelligent systems.
+```ts
+const nagaraj: Developer = {
+  role     : "Java Backend Developer",
+  college  : "BCA Student @ Dr. A.V Baliga College, Kumta",
+  focus    : ["Spring Boot", "REST APIs", "Spring AI", "LLM APIs", "RAG Systems"],
+  skills   : ["Java", "OOP", "DSA", "Spring Security", "JWT", "Microservices"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  mantra   : "Build scalable systems. Solve real problems. Ship with impact.",
+  goal     : "Become an elite Java Backend & Spring Boot Developer"
+};
+```
+<br/>
 
 ---
 
