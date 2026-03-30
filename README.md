@@ -176,3 +176,7 @@ const nagaraj: Developer = {
 [![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-black?style=for-the-badge)](https://www.linkedin.com/in/nagaraj-hegde-25bbb2382)
 
 </div>
+
+---
+
+
