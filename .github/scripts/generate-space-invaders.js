@@ -7,7 +7,7 @@ const TOKEN = process.env.GITHUB_TOKEN;
 const year = 2025;
 const FROM = `${year}-01-01T00:00:00Z`;
 const TO   = `${year}-12-31T23:59:59Z`;
-
+ 
 const query = `query($username: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $username) {
     contributionsCollection(from: $from, to: $to) {
