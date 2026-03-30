@@ -1,0 +1,27 @@
+name: Generate Space Invaders
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Space Invaders
+        uses: k6ra/space-invaders-contribution@main
+        with:
+          github_user_name: nagrajhegde834
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_file: output/space-invaders.svg
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: output
+          message: "Update space invaders"
+          push: true
