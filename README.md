@@ -56,7 +56,7 @@ const nagaraj: Developer = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/output/space-invaders.svg" alt="Space Invaders eating contribution graph"/>
-</div>
+</div> 
 
 ---
 
