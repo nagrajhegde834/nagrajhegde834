@@ -63,7 +63,7 @@ const nagaraj: Developer = {
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,docker,git,github,postman,vscode,idea,gradle,html,css,js&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,kubernetes,aws,git,github,postman,vscode,idea,html,css,js,react,tailwind&perline=7" />
 </p>
 
 <p align="center">
@@ -76,6 +76,18 @@ const nagaraj: Developer = {
   <img src="https://img.shields.io/badge/LLM%20APIs-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vector%20DB-9333EA?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Agentic%20AI-14B8A6?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
