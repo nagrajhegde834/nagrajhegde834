@@ -19,9 +19,7 @@ jobs:
         with:
           github_user_name: nagrajhegde834
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/space-invaders.svg?color_snake=purple&color_dots=#0d1117,#1a1a2e,#16213e,#0f3460,#533483
+            dist/space-invaders.gif?color_snake=purple&color_dots=#0d1117,#1a1a2e,#16213e,#0f3460,#533483
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
