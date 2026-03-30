@@ -55,7 +55,7 @@ const nagaraj: Developer = {
 ## 👾 Space Invaders — Destroying My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/output/space-invaders.gif" alt="Space Invaders eating contribution graph"/>
+  <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/main/space-invaders.gif" alt="Space Invaders eating contribution graph"/>
 </div>
 
 ---
