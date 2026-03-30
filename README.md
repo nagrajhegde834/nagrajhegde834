@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/main/banner.svg" width="100%" alt="Banner"/>
-</p>
+</p>  
 
 ---
 
