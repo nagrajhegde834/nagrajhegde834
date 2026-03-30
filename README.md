@@ -166,9 +166,13 @@ const nagaraj: Developer = {
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Matrix Code"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=2000&color=00F7FF&center=true&vCenter=true&width=750&height=80&lines=%22Code+is+not+just+instructions+%E2%80%94+it%27s+a+vision+brought+to+life.%22;%22Every+great+developer+you+know+got+there+by+solving+problems.%22;%22First+solve+the+problem%2C+then+write+the+code.%22;%22Simplicity+is+the+soul+of+efficiency.%22" alt="Dev Quote"/>
-</p>
-<p align="center">
-  <em style="color:#ec4899">— Nagaraj Hegde</em>
-</p>
+<div align="center">
+
+*"Code is not just logic — it's the bridge between imagination and reality."*
+
+🔥 Building something ambitious? Let's collaborate
+
+[![Gmail](https://img.shields.io/badge/M-nagarajhegde174@gmail.com-black?style=for-the-badge&logoColor=white)](mailto:nagarajhegde174@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-black?style=for-the-badge)](https://www.linkedin.com/in/nagaraj-hegde-25bbb2382)
+
+</div>
