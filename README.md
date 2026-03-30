@@ -179,4 +179,6 @@ const nagaraj: Developer = {
 
 ---
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/main/footer-heatmap.svg" width="100%" alt="Footer"/>
+</p>
