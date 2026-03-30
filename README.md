@@ -163,8 +163,9 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Matrix Code"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:b2f7ef,100:ffffff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=0f172a&animation=fadeIn&fontAlignY=65" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=2000&color=00F7FF&center=true&vCenter=true&width=750&height=80&lines=%22Code+is+not+just+instructions+%E2%80%94+it%27s+a+vision+brought+to+life.%22;%22Every+great+developer+you+know+got+there+by+solving+problems.%22;%22First+solve+the+problem%2C+then+write+the+code.%22;%22Simplicity+is+the+soul+of+efficiency.%22" alt="Dev Quote"/>
+</p>
+<p align="center">
+  <em style="color:#ec4899">— Nagaraj Hegde</em>
 </p>
