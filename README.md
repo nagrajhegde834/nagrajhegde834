@@ -52,6 +52,14 @@ const nagaraj: Developer = {
 
 ---
 
+## 👾 Space Invaders — Destroying My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagrajhegde834/nagrajhegde834/dist/github-contribution-grid-space-invaders.svg" alt="Space Invaders"/>
+</p>
+
+---
+
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
