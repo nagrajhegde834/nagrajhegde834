@@ -63,7 +63,7 @@ const nagaraj: Developer = {
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,kubernetes,aws,git,github,postman,vscode,idea,html,css,js,react,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,kubernetes,aws,git,github,postman,vscode,idea,html,css,js&perline=5" />
 </p>
 
 <p align="center">
